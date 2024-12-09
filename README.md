@@ -31,8 +31,11 @@ All exchanges are saved in the session for easy reference.
 ### 🛠️ Technologies Used
 
 Streamlit: Simplifies building an interactive UI.
+
 LlamaIndex: Manages embeddings and facilitates conversational interactions.
+
 Ollama LLM: Generates high-quality responses.
+
 HuggingFace Embeddings: Converts document data into vector embeddings for semantic search.
 
 ### 📝 Usage
