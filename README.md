@@ -2,6 +2,8 @@
 
 This Streamlit-powered app allows you to upload PDF documents and interact with them conversationally using an LLM-based chatbot. The app uses the Ollama LLM, HuggingFace embeddings, and LlamaIndex for contextual search and response generation.
 
+![Screenshot](./working-screenshot.png)
+
 ### 🚀 Features
 
 ##### PDF Upload and Indexing: 
